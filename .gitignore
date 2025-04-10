@@ -285,8 +285,8 @@ gradle-app.setting
 # Java heap dump
 *.hprof
 
-# Ignore application.properties
-application.yml
+# Ignore application.yml
+secret.yml
 
 # Ignore logs
 /logs
